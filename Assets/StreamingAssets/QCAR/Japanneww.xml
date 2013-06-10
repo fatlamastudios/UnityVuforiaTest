@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="track6" size="800.000000 487.124878" />
+    <ImageTarget name="carro" size="800.000000 600.000000" />
+    <ImageTarget name="ironman" size="800.000000 1185.185181" />
+    <ImageTarget name="imageAnimation" size="800.000000 600.000000" />
+    <ImageTarget name="image2d" size="800.000000 600.000000" />
+    <ImageTarget name="image3d" size="800.000000 600.000000" />
+  </Tracking>
+</QCARConfig>
